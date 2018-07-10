@@ -10,6 +10,11 @@ object DataService {
             Category("HOODIES", "hoodieimage"),
             Category("HATS", "hatimage"),
             Category("DIGITAL", "digitalgoodsimage"),
+            Category("BIKE GEAR", "shirtimage"),
+            Category("SHIRTS", "shirtimage"),
+            Category("HOODIES", "hoodieimage"),
+            Category("HATS", "hatimage"),
+            Category("DIGITAL", "digitalgoodsimage"),
             Category("BIKE GEAR", "shirtimage")
 
 
